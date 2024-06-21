@@ -1,8 +1,8 @@
 from math import pi
 from functools import reduce
 from operator import add
-from common.r3 import R3
-from common.tk_drawer import TkDrawer
+from r3 import R3
+from tk_drawer import TkDrawer
 
 
 class Segment:
